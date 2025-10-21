@@ -1,3 +1,4 @@
+--Comentario del Zero
 --Ejercicios 05/08/2025
 
 		--Prmeras sintaxis
